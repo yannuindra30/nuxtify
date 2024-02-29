@@ -6,21 +6,15 @@
     <!-- Navigation kiri 2-->
     <Navigation2 />
 
-    <!-- Header -->
     <Header />
 
-   
     <!-- Main -->
     <v-main>
       <v-container>
-        <RouterView/>
+        <RouterView />
       </v-container>
     </v-main>
-
- 
-    </v-app>
+  </v-app>
 </template>
 
-<script setup>
- 
-</script>
+<script setup></script>
